@@ -6,7 +6,7 @@ use Helper\MathHelper;
 
 echo MathHelper::$name . PHP_EOL;
 
-MathHelper::$name = "Eko Kurniawan";
+MathHelper::$name = "Sapto Raharjo";
 echo MathHelper::$name . PHP_EOL;
 
 $result = MathHelper::sum(10, 10, 10, 10, 10);
